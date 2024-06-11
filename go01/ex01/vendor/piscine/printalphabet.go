@@ -1,5 +1,5 @@
 package piscine
 
-func PointOne(nb *int) {
-  *nb = 1;
+func UltimatePointOne(nb ***int) {
+  ***nb = 1;
 }
